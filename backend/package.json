@@ -1,0 +1,15 @@
+{
+  "name": "webportfolio",
+  "version": "1.0.0",
+  "description": "A webportfolio I've created to showcase my web design skills.",
+  "main": "app.js",
+  "scripts": {
+    "test": "start:dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dennisw820.github.io.git"
+  },
+  "author": "Dennis Jr.",
+  "license": "ISC"
+}
