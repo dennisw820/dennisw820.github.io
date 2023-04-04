@@ -4,12 +4,18 @@
   "description": "A webportfolio I've created to showcase my web design skills.",
   "main": "app.js",
   "scripts": {
-    "test": "start:dev"
+    "start:dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
     "url": "dennisw820.github.io.git"
   },
   "author": "Dennis Jr.",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
